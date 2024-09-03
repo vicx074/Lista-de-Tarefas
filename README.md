@@ -15,4 +15,4 @@ Este é um gerenciador de tarefas simples desenvolvido com HTML, CSS e JavaScrip
 
 Experimente e mantenha suas tarefas organizadas de maneira eficiente!
 
-Clique [aqui](https://vicx074.github.io/Lista-de-Tarefas/) para experimentar o gerador de senhas!
+Clique [aqui](https://vicx074.github.io/Lista-de-Tarefas/) para experimentar a lista de tarefas!
