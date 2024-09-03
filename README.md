@@ -14,3 +14,5 @@ Este é um gerenciador de tarefas simples desenvolvido com HTML, CSS e JavaScrip
 2. **Excluir Tarefa**: Clique no ícone de lixeira ao lado da tarefa para removê-la.
 
 Experimente e mantenha suas tarefas organizadas de maneira eficiente!
+
+Clique [aqui](https://vicx074.github.io/Lista-de-Tarefas/) para experimentar o gerador de senhas!
