@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap');
+
+
+body {
+    font-family: "SUSE", sans-serif;
+    background-color: #e7e6e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    background: #ffffff;
+    padding: 45px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px #0000001a;
+}
+h1 {
+    margin-bottom: 20px;
+}
+input {
+    padding: 15px;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+button {
+    padding: 18px;
+    margin-top: 6%;
+    font-size: 12px;
+    font-weight: 600;
+    border: none;
+    background-color: #0a6bc5;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+button:hover {
+    background-color: #1560af;
+    transform: scale(1.1);
+}
+ul {
+    background: #f5f2f2;
+    border-radius: 5px;
+    box-shadow: 5 5 0px #0000001a;
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li button {
+    background-color: #dc3545;
+    
+}
+li button:hover {
+    background-color: #c82333;
+}
